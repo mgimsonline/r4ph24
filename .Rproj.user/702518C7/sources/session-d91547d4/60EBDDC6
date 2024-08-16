@@ -1,0 +1,27 @@
+{
+    "id": "60EBDDC6",
+    "path": "~/r4ph24_git/test.R",
+    "project_path": "test.R",
+    "type": "r_source",
+    "hash": "22340096",
+    "contents": "",
+    "dirty": true,
+    "created": 1723817830470.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "1,13",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1723818514,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1723818514901,
+    "read_only": false,
+    "read_only_alternatives": []
+}
